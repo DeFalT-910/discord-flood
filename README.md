@@ -1,4 +1,4 @@
-# discord-flood. A discord script to send messages repetitively on a certain message channel, script made by [GR6Y] DeFalT
+# A discord script to send messages repetitively on a certain message channel, script made by [GR6Y] DeFalT
 $ I take no responsibility for the misuse of this script, the script was created for knowledge purposes. $
 
 Change line 19 as you need, minute, hour, day and etc.
